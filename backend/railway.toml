@@ -1,6 +1,5 @@
 [build]
 builder = "NIXPACKS"
-projectRoot = "."
 buildCommand = "npm install"
 
 [deploy]
