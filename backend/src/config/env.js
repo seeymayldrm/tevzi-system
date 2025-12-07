@@ -1,6 +1,5 @@
 // backend/src/config/env.js
 const dotenv = require("dotenv");
-
 dotenv.config();
 
 function required(name) {
