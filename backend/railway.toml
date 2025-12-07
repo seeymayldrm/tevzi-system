@@ -1,6 +1,6 @@
 [build]
 builder = "NIXPACKS"
-projectRoot = "backend"
+projectRoot = "."
 buildCommand = "npm install"
 
 [deploy]
